@@ -29,7 +29,7 @@ const AddCategory = ({setCategories}) => {
             <input
                  type="text" //placeholder={inputValue}
                  value={inputValue}
-                 placeholder='Agregue su anime'
+                 placeholder='Busque sus gifs'
                  onChange={handleInputChange}
             />
 
